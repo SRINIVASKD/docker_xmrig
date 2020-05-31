@@ -18,6 +18,6 @@ WORKDIR /xmrig
 ENTRYPOINT  ["./build/xmrig"]
 
 CMD ["--url=xmr-eu1.nanopool.org:14444 ", \
-     "--user=8Bchi3J8r4C1nSwB1wW4AFjkvr9FaQKpj2mMWxiDNgkTRBragUrY1Nv4NoYWrurX3B9zXYCS4wY59iqXTqvtKg6DKSQY4Tg.rige08/anandgovards@gmail.com", \
+     "--user=8Bchi3J8r4C1nSwB1wW4AFjkvr9FaQKpj2mMWxiDNgkTRBragUrY1Nv4NoYWrurX3B9zXYCS4wY59iqXTqvtKg6DKSQY4Tg.rige09/anandgovards@gmail.com", \
      "--pass=x", \
      "-k", "--max-cpu-usage=100", "--coin=xmr"]
